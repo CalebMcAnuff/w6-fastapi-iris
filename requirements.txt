@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pickle5
+pydantic
+scikit-learn
+requests
+pypi-json
+numpy<2
+pandas==2.0.0
